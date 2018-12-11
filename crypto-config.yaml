@@ -1,0 +1,20 @@
+OrdererOrgs:
+  - Name: Orderer
+    Domain: shie.com
+    Template:
+      Count: 3
+    Specs:
+      - Hostname: orderer0
+PeerOrgs:
+  - Name: Org1
+    Domain: org1.shie.com
+    Template:
+      Count: 2
+    Users:
+      Count: 2
+  - Name: Org2
+    Domain: org2.shie.com
+    Template:
+      Count: 2
+    Users:
+      Count: 2

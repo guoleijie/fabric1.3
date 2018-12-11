@@ -1,0 +1,12 @@
+
+172.16.124.33   cli.shie.com
+172.16.124.33   kafka.shie.com
+172.16.124.33   ca.shie.com
+172.16.124.33   explorer.shie.com
+172.16.124.33   orderer0.shie.com
+172.16.124.33   orderer1.shie.com
+172.16.124.33   orderer2.shie.com
+172.16.124.33   peer0.org1.shie.com
+172.16.124.33   peer1.org1.shie.com
+172.16.124.33   peer0.org2.shie.com
+172.16.124.33   peer1.org2.shie.com
